@@ -1,0 +1,81 @@
+body {
+  background-image: url(background.jpg);
+  background-position: 0 0;
+  background-size: cover
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  width: 900px;
+  height: 630px;
+  margin: auto;
+  margin-top: 20pX;
+  padding-top: 10px;
+}
+.logo{
+  width: 180px;
+  margin-left: 350px;
+  padding-top: 70px;
+}
+.text-logo{
+  font-size: 28px;
+  text-align: center;
+  color: #00ff00;
+  margin: auto;
+}
+.opzioni{
+  background-color: #00ff00;
+  width: 750px;
+  height: 25px;
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+}
+.button{
+  font-size: 11px;
+  margin-top:4px;
+}
+.tipo-monopattino{
+  display: inline-block;
+  margin-left: 50px;
+  padding: 15px;
+}
+.nome{
+  font-size: 20px;
+  color: white;
+}
+.indirizzo{
+  font-size: 15px;
+  color: white;
+}
+.stato{
+  font-size: 15px;
+  color: white;
+}
+.carica1{
+  background-color: orange;
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+}
+.tipo-monopattino2{
+  margin-left: 50px;
+  padding: 15px;
+}
+.carica2{
+  background-color: #00CD00;
+  width: 450px;
+  height: 25px;
+  border-radius: 5px;
+}
+.tipo-monopattino3{
+  margin-left: 50px;
+  padding: 15px;
+}
+.carica3{
+  background-color: #a52a2a;
+  width: 120px;
+  height: 25px;
+  border-radius: 5px;
+}
